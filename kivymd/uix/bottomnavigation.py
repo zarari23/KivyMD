@@ -281,7 +281,7 @@ Builder.load_string(
         MDLabel:
             id: _label
             text: root.tab.text
-            font_style: "Button"
+            font_style: "Subtitle2"
             size_hint_x: None
             text_size: None, root.height
             adaptive_height: True
